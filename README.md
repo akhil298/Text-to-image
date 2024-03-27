@@ -1,5 +1,3 @@
-# Text-to-image
-
 # Title: Text-to-Image with Stable Diffusion
 
 # Description:
@@ -22,9 +20,8 @@ torch (if not already installed)
 # Installation:
 Clone this repository using git clone https://github.com/your-username/your-project-name.git.
 Navigate to the project directory: cd your-project-name
-Install the required libraries: pip install -r requirements.txt (if a requirements.txt file is present)
-Usage:
 
+Usage:
 # Run the Script:
 Execute the main script using python your_script_name.py. Replace your_script_name.py with the actual filename (e.g., text_to_image.py).
 Provide Text Prompts:
